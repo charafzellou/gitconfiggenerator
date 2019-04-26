@@ -10,7 +10,7 @@ environement more easily.
 
 *Please note that this git will host a lot of text/`bash` files to accompany your 
 learnig process. It is very recommended to [learn Bash before getting into 
-it!](https://www.learnshell.org/)*
+it!](https://www.learnshell.org/)* :)
 
 # Table of contents
 
