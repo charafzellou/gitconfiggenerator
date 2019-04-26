@@ -1,17 +1,16 @@
 # Color LS
 
-1[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-A Ruby script that colorizes the `ls` output with color and icons. Here are the 
-screenshots of working example on an iTerm2 terminal (Mac OS), `oh-my-zsh` with 
-`powerlevel9k` theme and `powerline nerd-font + awesome-config` font with the 
-`Solarized Dark` color theme.
+This is a `git` repository configuration generator!
+It aims to provide useful tools for `git` beginners to help the learn `git` 
+environement more easily.
  
-![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
+![image](https://dyw7ncnq1en5l.cloudfront.net/optim/news/75/75755/-c-github.jpg)
 
-*If you're interested in knowing the powerlevel9k configuration to get this prompt, 
-have a look at [this 
-gist](https://gist.github.com/athityakumar/1bd5e9e24cd2a1891565573a893993eb).*
+*Please note that this git will host a lot of text/`bash` files to accompany your 
+learnig process. It is very recommended to [learn Bash before getting into 
+it!](https://www.learnshell.org/)*
 
 # Table of contents
 
